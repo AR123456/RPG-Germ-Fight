@@ -1,0 +1,31 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1485792606097-cdaae20ac665?auto=format&fit=crop&w=1502&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+	height: 100%; 
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+	
+.wrapper{
+	max-width:960px;
+	/*margin: 0 auto;*/
+	
+}
+
+#innitialCharacterStaging img{
+	width: 125px;
+	height: 125px;
+	/*float: left;*/
+}
+
+#selectedCharacter img{
+	width: 125px;
+	height: 125px;
+
+}
+
+#enemyDefenderList img{
+	width: 125px;
+	height: 125px;
+}
